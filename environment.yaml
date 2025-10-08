@@ -1,0 +1,6 @@
+name: master
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python=3.13.0
